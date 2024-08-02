@@ -1,6 +1,6 @@
 package kotlinBasics.variables
 
-fun canPerformOperation(): Boolean {
+private fun canPerformOperation(): Boolean {
     return true
 }
 
