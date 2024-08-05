@@ -1,6 +1,6 @@
 @file:JvmName("CustomJoin") // изменение нейминга
 
-package definingAndCallingFunctions.collections
+package definingAndCallingFunctions.topLevelFuncitons
 
 /**
  * Пример изменения нейминга класса для вызова функции в джава коде
